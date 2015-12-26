@@ -6,7 +6,7 @@ These implementations are entirely for fun and for personal learning. I also wil
 each of the algorithms I add, which will be linked to in this README, so check them out!
 
 ## Writeups
-Diamond Square - TODO
+Diamond Square - http://jmecom.github.io/diamond-square/
 
 ## Links
 
