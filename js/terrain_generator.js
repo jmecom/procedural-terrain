@@ -6,8 +6,9 @@ function TerrainGenerator(width, height) {
   this.height = height;
 
   /* diamondSquare 
-   * Returns a mesh using a PlaneGeomtry modified 
-   * by the Diamond-Square algorithm
+   * Returns a mesh using a PlaneGeomtry modified by the Diamond-Square algorithm
+   * Note: for this to work, width and height must be expressable as 2^n + 1 
+   *       (e.g. 5x5, 17x17, 33x33)
    */ 
   TerrainGenerator.prototype.diamondSquare = function() {
     var geometry = new THREE.PlaneGeometry(3, 3, this.width-1, this.height-1),
