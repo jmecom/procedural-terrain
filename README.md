@@ -11,6 +11,6 @@ Diamond Square - TODO
 ## Links
 
 
-[1]https://en.wikipedia.org/wiki/Diamond-square_algorithm
+[1] https://en.wikipedia.org/wiki/Diamond-square_algorithm
 
-[2]https://en.wikipedia.org/wiki/Perlin_noise
+[2] https://en.wikipedia.org/wiki/Perlin_noise
