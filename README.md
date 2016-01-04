@@ -1,4 +1,4 @@
-# Procedural Landscapes
+# Procedural Terrain
 
 This repository contains implementations of procedural terrain generation algorithms. As of now
 it only contains Diamond-Square[1], but more, such as Perlin Noise[2], may be added in the future.
